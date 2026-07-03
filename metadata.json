@@ -1,0 +1,6 @@
+{
+  "name": "Axioscript",
+  "description": "The official marketing and digital transformation ecosystem website for Axioscript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
